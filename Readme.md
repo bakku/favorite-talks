@@ -6,3 +6,4 @@ Greg Wilson - What We Actually Know About Software Development, and Why We Belie
 
 Robert C Martin - Functional Programming; What? Why? When?: https://www.youtube.com/watch?v=7Zlp9rKHGD4
 
+Damir Svrtan - Surrounded by Ruby Microservices: https://rubyweekly.com/link/70826/ed2597868a
